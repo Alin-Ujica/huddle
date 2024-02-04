@@ -190,3 +190,10 @@ footer {
         height: 40%;
     }
 }
+
+@media (max-width: 400px) {
+    .illustration {
+        width:20rem;
+        height: 10rem;
+    }
+}
